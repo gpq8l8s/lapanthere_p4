@@ -1,6 +1,6 @@
 ### About the Project
 
-    Opmatize Search Engine Optimization(seo)
+    Optimize Search Engine Optimization(seo)
 
 ![](seo2.png)
 
